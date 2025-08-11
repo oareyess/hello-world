@@ -1,1 +1,2 @@
 My first note on GitHub
+Practicing making a commit
